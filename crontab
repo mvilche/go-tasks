@@ -1,0 +1,6 @@
+# comment
+
+SHELL=/bin/bash
+EMAIL_NOTIFICACION=true
+
+*/1 * * * * 1000 sleep3 1 && id >> /tmp/test-1
