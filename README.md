@@ -64,3 +64,7 @@ Run crond with run-parts with custom time spec and different user:
     go-crond \
         --run-parts=1m:application:/etc/cron.minute \
         --run-parts=15m:admin:/etc/cron.15min
+        
+        
+## License
+Open-sourced software licensed under the MIT license.
